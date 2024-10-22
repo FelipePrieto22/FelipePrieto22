@@ -1,7 +1,3 @@
-Aquí tienes una versión más resumida pero aún informativa:
-
----
-
 👨‍💻 **Felipe Alejandro Prieto Ortiz**  
 Thesis student in Computer Engineering, specializing in **full-stack development**. Skilled in building scalable and efficient web applications using **React**, **TypeScript**, **Python**.
 
