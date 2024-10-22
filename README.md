@@ -1,13 +1,20 @@
-👨‍💻 Felipe Alejandro Prieto Ortiz
-Computer Engineering thesis student focused on full-stack development, with expertise in building robust and efficient web solutions. I specialize in both frontend and backend development, working with technologies like React, TypeScript, Python, and PostgreSQL to design scalable and high-performance applications.
+Aquí tienes una versión más resumida pero aún informativa:
 
-🔧 My experience includes full-stack development in projects such as creating interactive maps and building enterprise-focused application suites. During my professional internship at West Ingeniería, I worked on developing solutions tailored to business needs, handling both frontend and backend development. I focused on optimizing code for performance, creating efficient user interfaces, and managing large datasets to ensure smooth and responsive applications. My work emphasized delivering scalable and efficient applications while maintaining high standards of software design and quality.
+---
 
-🌐 Technologies:
+👨‍💻 **Felipe Alejandro Prieto Ortiz**  
+Thesis student in Computer Engineering, specializing in **full-stack development**. Skilled in building scalable and efficient web applications using **React**, **TypeScript**, **Python**, and **PostgreSQL**.
 
-Frontend: React, TypeScript, HTML, CSS, Tailwind CSS
-Backend: Node.js, Express.js, Python, PostgreSQL, MongoDB, MariaDB and MYSQL
-DevOps: Docker, Git (Github and GitLab)
-Agile Methodologies: Experienced in applying team-based agile methodologies, including the creation of Gantt charts for project tracking and management. I have worked with Scrum frameworks in business environments, facilitating sprint planning, daily stand-ups, and retrospectives to ensure efficient collaboration and timely delivery of high-quality software solutions.
+🔧 I have experience in developing **interactive maps** and **enterprise-focused applications**. During my internship at **West Ingeniería**, I optimized code, created **efficient user interfaces**, and managed large datasets to ensure responsive applications, always maintaining high-quality software design standards.
 
-🚀 I'm always seeking new challenges and opportunities to enhance my skills and contribute to innovative projects. You can check out my work on my portfolio.
+🌐 **Technologies**:
+- **Frontend**: React, TypeScript, HTML, CSS, Tailwind CSS
+- **Backend**: Node.js, Express.js, Python, PostgreSQL, MongoDB, MySQL
+- **DevOps**: Docker, Git (GitHub, GitLab)
+- **Agile**: Experienced with **Scrum** and project tracking tools like **Gantt charts**, focusing on teamwork and delivering high-quality software.
+
+🚀 Always open to new challenges, continuously improving my skills and contributing to innovative projects. Check out my portfolio!
+
+---
+
+¿Qué te parece esta versión más corta?
