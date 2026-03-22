@@ -1,12 +1,64 @@
-👨‍💻 **Felipe Alejandro Prieto Ortiz**  
-Thesis student in Computer Engineering, specializing in **full-stack development**. Skilled in building scalable and efficient web applications using **React**, **TypeScript**, **Python**.
+<h1 align="center">👋 Hi, I'm Felipe Prieto</h1>
+<h3 align="center">Full-Stack Developer | Computer Engineering Student 🇨🇱</h3>
 
-🔧 I have experience in web development and enterprise-focused applications. During my internship at West Ingeniería, I optimized code, created efficient user interfaces, and managed large datasets to ensure responsive applications, always maintaining high-quality software design standards.
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipeprieto22" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:felipeprieto22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/FelipePrieto22">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-🌐 **Technologies**:
-- **Frontend**: React, TypeScript, HTML, CSS, Tailwind CSS
-- **Backend**: Node.js, Express.js, Python, PostgreSQL, MongoDB, MySQL
-- **DevOps**: Docker, Git (GitHub, GitLab)
-- **Agile**: Experienced with **Scrum** and project tracking tools like **Gantt charts**, focusing on teamwork and delivering high-quality software.
+---
 
-🚀 Always open to new challenges, continuously improving my skills and contributing to innovative projects. Check out my portfolio!
+### 🧑‍💻 About Me
+
+I'm a **Computer Engineering thesis student** specializing in **full-stack development**, passionate about building scalable and efficient web applications. Currently finishing my degree and looking for opportunities to grow professionally.
+
+During my internship at **West Ingeniería**, I optimized code, built efficient user interfaces, and managed large datasets — always following high-quality software design standards.
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipePrieto22&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePrieto22&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🚀 Always open to new challenges — let's build something great together!
