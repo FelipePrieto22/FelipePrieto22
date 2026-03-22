@@ -17,21 +17,34 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **Computer Engineer** specializing in **full-stack development**, passionate about building scalable and efficient web applications.
+I'm a **Computer Engineer** specializing in **full-stack development**, passionate about building scalable and efficient web and mobile applications.
 
-Currently working at **Viggo** 🇨🇱, a Chilean company associated with **Grupo Jedimar**, where I develop enterprise-level solutions using .NET, C#, and Razor Pages, among other technologies.
+Currently working at **Viggo** 🇨🇱, a Chilean company associated with **Grupo Jedimar**, developing enterprise-level solutions using .NET, C#, and Razor Pages.
+
+I'm also an active contributor to a **FONDEF research project**, building a mobile application using React Native, TypeScript, and SQLite — bridging academic research with real-world software development.
 
 Previously, during my internship at **West Ingeniería**, I optimized code, built efficient user interfaces, and managed large datasets — always following high-quality software design standards.
 
 ---
 
+### 💼 Experience
+
+| Role | Company / Project | Stack |
+|------|-------------------|-------|
+| 🧑‍💻 Software Developer | **Viggo** (Grupo Jedimar) | .NET, C#, Razor Pages, Python |
+| 📱 Developer | **FONDEF Research Project** | React Native, TypeScript, SQLite |
+| 🛠️ Intern | **West Ingeniería** | React, TypeScript, Python |
+
+---
+
 ### 🛠️ Tech Stack
 
-**Frontend**
+**Frontend & Mobile**
 
-![Razor Pages](https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Razor Pages](https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -45,6 +58,7 @@ Previously, during my internship at **West Ingeniería**, I optimized code, buil
 
 **Databases**
 
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
