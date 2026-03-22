@@ -21,7 +21,7 @@ I'm a **Computer Engineer** specializing in **full-stack development**, passiona
 
 Currently working at **Viggo** 🇨🇱, a Chilean company associated with **Grupo Jedimar**, developing enterprise-level solutions using .NET, C#, and Razor Pages.
 
-I'm also an active contributor to a **FONDEF research project**, building a mobile application using React Native, TypeScript, and SQLite — bridging academic research with real-world software development.
+I'm also an active developer in the **FONDEF ID24I10077** research project — a collaborative initiative between the **Universidad Austral de Chile** and **Universidad San Sebastián**, focused on reducing the digital divide in rural education through technology. The project develops an **offline technological kit** for teaching Artificial Intelligence in rural primary schools, bringing AI literacy to communities with limited connectivity. My work involves building the mobile application using React Native, TypeScript, and SQLite.
 
 Previously, during my internship at **West Ingeniería**, I optimized code, built efficient user interfaces, and managed large datasets — always following high-quality software design standards.
 
@@ -32,8 +32,16 @@ Previously, during my internship at **West Ingeniería**, I optimized code, buil
 | Role | Company / Project | Stack |
 |------|-------------------|-------|
 | 🧑‍💻 Software Developer | **Viggo** (Grupo Jedimar) | .NET, C#, Razor Pages, Python |
-| 📱 Developer | **FONDEF Research Project** | React Native, TypeScript, SQLite |
+| 📱 Mobile Developer | **FONDEF ID24I10077** – UACh & USS | React Native, TypeScript, SQLite |
 | 🛠️ Intern | **West Ingeniería** | React, TypeScript, Python |
+
+---
+
+### 🔬 Research Project — FONDEF ID24I10077
+
+> **"Desarrollo de un Kit Tecnológico offline para la enseñanza y el aprendizaje de la inteligencia artificial en la escuela básica rural"**
+>
+> A research and development project funded by **ANID (FONDEF)**, led by **Universidad Austral de Chile (Sede Puerto Montt)** in collaboration with **Universidad San Sebastián**. The initiative aims to bridge the digital and technological gap in rural Chilean schools by delivering an offline AI education kit — making AI accessible where internet connectivity is limited or unavailable.
 
 ---
 
