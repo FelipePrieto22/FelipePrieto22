@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Felipe Prieto</h1>
-<h3 align="center">Full-Stack Developer | Computer Engineering Student 🇨🇱</h3>
+<h3 align="center">Full-Stack Developer | Software Engineer 🇨🇱</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipeprieto22" target="_blank">
@@ -17,9 +17,11 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **Computer Engineering thesis student** specializing in **full-stack development**, passionate about building scalable and efficient web applications. Currently finishing my degree and looking for opportunities to grow professionally.
+I'm a **Computer Engineer** specializing in **full-stack development**, passionate about building scalable and efficient web applications.
 
-During my internship at **West Ingeniería**, I optimized code, built efficient user interfaces, and managed large datasets — always following high-quality software design standards.
+Currently working at **Viggo** 🇨🇱, a Chilean company associated with **Grupo Jedimar**, where I develop enterprise-level solutions using .NET, C#, and Razor Pages, among other technologies.
+
+Previously, during my internship at **West Ingeniería**, I optimized code, built efficient user interfaces, and managed large datasets — always following high-quality software design standards.
 
 ---
 
@@ -27,6 +29,7 @@ During my internship at **West Ingeniería**, I optimized code, built efficient 
 
 **Frontend**
 
+![Razor Pages](https://img.shields.io/badge/Razor_Pages-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -34,6 +37,8 @@ During my internship at **West Ingeniería**, I optimized code, built efficient 
 
 **Backend**
 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
